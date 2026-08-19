@@ -1,0 +1,44 @@
+# Build output
+build/
+bin/
+out/
+
+# Compiled objects
+*.o
+*.a
+*.elf
+*.img
+*.bin
+*.map
+
+# Debugging
+*.gdb
+*.d
+
+# QEMU
+*.qcow2
+*.raw
+
+# VS Code
+.vscode/
+
+# OS images / disks
+*.iso
+*.img
+*.raw
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
