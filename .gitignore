@@ -1,7 +1,9 @@
 # Build output
-build/
+build/*
 bin/
 out/
+!build/linker-rpi4.ld
+!build/linker-qemu.ld
 
 # Compiled objects
 *.o
