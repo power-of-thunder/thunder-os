@@ -1,0 +1,6 @@
+#ifndef THUNDER_QEMU_BASES_H
+#define THUNDER_QEMU_BASES_H
+
+#define UART0_BASE      0x09000000UL
+
+#endif
